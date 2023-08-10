@@ -1,0 +1,36 @@
+F:\Task\COAR\WeddingAR\VuforiaUpload\bin\Release\VuforiaUpload.exe.config
+F:\Task\COAR\WeddingAR\VuforiaUpload\bin\Release\VuforiaUpload.exe
+F:\Task\COAR\WeddingAR\VuforiaUpload\bin\Release\VuforiaUpload.pdb
+F:\Task\COAR\WeddingAR\VuforiaUpload\bin\Release\System.Net.Json.dll
+F:\Task\COAR\WeddingAR\VuforiaUpload\obj\x86\Release\VuforiaUpload.exe
+F:\Task\COAR\WeddingAR\VuforiaUpload\obj\x86\Release\VuforiaUpload.pdb
+F:\Task\COAR\WeddingAR\VuforiaUpload\obj\x86\Release\VuforiaUpload.csprojResolveAssemblyReference.cache
+F:\Work\unity\13\VuforiaUpload\bin\Release\VuforiaUpload.exe.config
+F:\Work\unity\13\VuforiaUpload\obj\x86\Release\VuforiaUpload.exe
+F:\Work\unity\13\VuforiaUpload\obj\x86\Release\VuforiaUpload.pdb
+F:\Work\unity\13\VuforiaUpload\bin\Release\VuforiaUpload.exe
+F:\Work\unity\13\VuforiaUpload\bin\Release\VuforiaUpload.pdb
+F:\Work\unity\13\VuforiaUpload\bin\Release\System.Net.Json.dll
+F:\Work\unity\13\VuforiaUpload\obj\x86\Release\VuforiaUpload.csprojResolveAssemblyReference.cache
+F:\Work\web\asp.net\AR builder\트라움\VuforiaUpload\bin\Release\VuforiaUpload.exe.config
+F:\Work\web\asp.net\AR builder\트라움\VuforiaUpload\obj\x86\Release\VuforiaUpload.exe
+F:\Work\web\asp.net\AR builder\트라움\VuforiaUpload\obj\x86\Release\VuforiaUpload.pdb
+F:\Work\web\asp.net\AR builder\트라움\VuforiaUpload\bin\Release\VuforiaUpload.exe
+F:\Work\web\asp.net\AR builder\트라움\VuforiaUpload\bin\Release\VuforiaUpload.pdb
+F:\Work\web\asp.net\AR builder\트라움\VuforiaUpload\bin\Release\System.Net.Json.dll
+F:\Work\web\asp.net\AR builder\트라움\VuforiaUpload\obj\x86\Release\VuforiaUpload.csprojResolveAssemblyReference.cache
+T:\Work\web\asp.net\AR builder\트라움\VuforiaUpload\bin\Release\VuforiaUpload.exe.config
+T:\Work\web\asp.net\AR builder\트라움\VuforiaUpload\obj\x86\Release\VuforiaUpload.exe
+T:\Work\web\asp.net\AR builder\트라움\VuforiaUpload\obj\x86\Release\VuforiaUpload.pdb
+E:\Work\web\asp.net\appbuilder\VuforiaUpload\bin\Release\VuforiaUpload.exe.config
+E:\Work\web\asp.net\appbuilder\VuforiaUpload\obj\x86\Release\VuforiaUpload.exe
+E:\Work\web\asp.net\appbuilder\VuforiaUpload\obj\x86\Release\VuforiaUpload.pdb
+C:\Users\Mumtaz\Downloads\VuforiaUpload\bin\Release\VuforiaUpload.exe.config
+C:\Users\Mumtaz\Downloads\VuforiaUpload\bin\Release\VuforiaUpload.exe
+C:\Users\Mumtaz\Downloads\VuforiaUpload\bin\Release\VuforiaUpload.pdb
+C:\Users\Mumtaz\Downloads\VuforiaUpload\bin\Release\System.Net.Json.dll
+C:\Users\Mumtaz\Downloads\VuforiaUpload\obj\x86\Release\VuforiaUpload.csprojResolveAssemblyReference.cache
+C:\Users\Mumtaz\Downloads\VuforiaUpload\obj\x86\Release\VuforiaUpload.csproj.CoreCompileInputs.cache
+C:\Users\Mumtaz\Downloads\VuforiaUpload\obj\x86\Release\VuforiaUpload.csproj.CopyComplete
+C:\Users\Mumtaz\Downloads\VuforiaUpload\obj\x86\Release\VuforiaUpload.exe
+C:\Users\Mumtaz\Downloads\VuforiaUpload\obj\x86\Release\VuforiaUpload.pdb
